@@ -1,0 +1,8 @@
+Algoritma Luas dan Keliling Lingkaran:
+1. Start.
+2. Memasukan nilai dari r.
+3. Jika nilai r bisa habis dibagi 7 maka phi 22/7, jika tidak maka phi 3.14.
+4. Menghitung Luas lingkaran dengan rumus phi*r*r, nilai luas telah ditemukan.
+5. Menghitung Keliling lingkaran dengan rumus 2*phi*r, nilai keliling telah ditemukan.
+6. Cetak nilai dari Luas dan Keliling lingkaran.
+7. End.

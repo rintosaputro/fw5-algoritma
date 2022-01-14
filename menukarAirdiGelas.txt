@@ -1,0 +1,10 @@
+Memindahkan air di dalam gelas:
+1. Start.
+2. Mendefinisikan gelas bahwa gelas A adalah teh, gelas B adalah kopi dan gelas C adalah gelas kosong.
+3. Pindahkan air di gelas A kedalam gelas C.
+4. Bersihkan gelas A.
+5. Pindahkan air di gelas B kedalam gelas A.
+6. Bersihkan gelas B.
+7. Pindahkan air di gelas C kedalam gelas b.
+8. Bersihkan gelas C.
+9. Selesai.

@@ -1,0 +1,8 @@
+Menentukan nilai terbesar:
+1. Start.
+2. Menentukan nilai x dan y.
+3. Melakukan perbandingan dengan nilai x dan y. 
+4. Jika x > y benar maka nilai x lebih besar dari y.
+5. Jika x > y salah maka nilai y lebih besa dari x.
+6. Print hasil nilai yang paling besar.
+7. End.

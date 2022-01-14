@@ -1,0 +1,7 @@
+Mencari bilangan ganjil atau genap:
+1. Start.
+2. Tentukan nilai dari x.
+3. Jika nilai x dibagi 2 sisa bagi 0 maka nilai x genap.
+4. Jika tidak maka nilai x ganjil.
+5. Tulis hasil.
+6. End.
